@@ -1,13 +1,13 @@
 ***
-#####Connecte to php
+##### Connecte to php
 * docker exec -it  REA-php-fpm bash
 
 ***
-#####Connecte to Mysql
+##### Connecte to Mysql
 * docker exec -it REA-mysql mysql -uroot
 
 ***
-#####Connecte to mariadb
+##### Connecte to mariadb
 *  docker exec -it REA-mariadb mysql -uroot -proot
 
 ***
